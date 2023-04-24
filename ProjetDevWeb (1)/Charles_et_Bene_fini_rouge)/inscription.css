@@ -1,0 +1,8 @@
+.anniv{
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input:anniv{
+    margin: 0.4rem 0;
+}
